@@ -1,0 +1,6 @@
+package main
+
+func hello(name string) html {
+	return <h1>Hello {name} !</h1>
+}
+

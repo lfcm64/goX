@@ -1,0 +1,3 @@
+module goX
+
+go 1.22.0
